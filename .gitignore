@@ -1,4 +1,4 @@
-CMakeCache.txt
+*/CMakeCache.txt
 *.cmake
-CMakeFiles/*
-Makefile
+*/CMakeFiles/*
+*/Makefile
